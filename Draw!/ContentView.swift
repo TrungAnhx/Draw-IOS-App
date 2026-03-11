@@ -1,4 +1,3 @@
-//
 //  ContentView.swift
 //  Draw!
 //
@@ -19,6 +18,4 @@ struct ContentView: View {
     }
 }
 
-#Preview {
-    ContentView()
-}
+
