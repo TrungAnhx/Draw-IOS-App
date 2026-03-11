@@ -11,12 +11,8 @@ import PencilKit
 
 struct EditorView: View {
     var size: CGSize
-    @State var data: EditorData
+    var data: EditorData
     
-    init(size: CGSize, data: EditorData) {
-        self.size = size
-        self._data = .init(initialValue: data)
-    }
     var body: some View {
         if let controller = data.controller {
             PaperControllerView(controller: controller)

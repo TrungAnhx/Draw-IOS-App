@@ -27,6 +27,9 @@ class EditorData {
             self.controller = controller
             self.controller?.markup = markup
             self.controller?.zoomRange = 0.8...1.5
+            
+            /// Initializing Tool Picker
+            self.toolPicker = PKToolPicker()
         }
         
         if !welcomeText.isEmpty {
