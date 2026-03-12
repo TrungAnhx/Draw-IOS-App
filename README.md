@@ -20,7 +20,7 @@
 - **Observation Framework:** Quản lý dữ liệu hiệu quả với macro `@Observable`.
 
 ## 🚀 Yêu cầu hệ thống
-- **Hệ điều hành:** iOS 17.0 trở lên (Một số tính năng nâng cao yêu cầu phiên bản mới hơn).
+- **Hệ điều hành:** iOS 26.0 trở lên (Sử dụng markup!).
 - **Thiết bị:** iPhone/iPad (Khuyến khích sử dụng Apple Pencil trên iPad để có trải nghiệm tốt nhất).
 
 ## 📂 Cấu trúc thư mục
